@@ -1,0 +1,63 @@
+.title{
+  padding: 20px 10px 10px 40px;
+  text-align: left;
+  font-size: 56px;
+  type: solid;
+}
+  .hat{
+        background-image: url(http://www.les4mondes.fr/images/resim5.jpg);
+  }
+#nav{
+  text-align: center;
+  font-size: 20px;
+  padding-top: 50px;
+}
+#nav a{
+  color: black;
+  type: solid;
+  text-decoration: none;
+}
+body{
+  margin-top: 0px;
+  background-image: url(http://pinbook.me/wp-content/uploads/2015/11/desktopoldpaperwallpapershdwallpaperoldpaperdesktopwallpapershdoldpaperhd-1448923355c8l4p.jpg);
+  font-family: Special Elite;
+}
+
+.images{
+  background-color: #000;
+  margin-left: 0.01%;
+  margin-right: 0.01%
+}
+.welcome{
+  text-align: center;
+  font-size: 36px;
+  margin-top: 20px;
+}
+.text{
+  font-size: 18px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-indent: 40px;
+  text-align: justify;
+  font-weight: bold;
+}
+#wiki{
+  font-weight: bold;
+}
+img {
+    height: 180px;
+    width: 220px;
+    -webkit-transition: margin 0.5s ease;
+    -moz-transition: margin 0.5s ease;
+    -o-transition: margin 0.5s ease;
+    -ms-transition: margin 0.5s ease;
+    transition: margin 0.5s ease;
+}
+img:hover {
+  margin-left: -1%;
+}
+#author{
+  font-size: 15px;
+  text-align: center;
+  margin-top: 40px;
+}
